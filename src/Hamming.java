@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Hamming_Code {
+class Hamming {
     public static void main(String[] args) {
 
         System.out.print("Введите количество бит в слове: ");
@@ -187,3 +187,4 @@ class Hamming_Code {
     }
 
 }
+
